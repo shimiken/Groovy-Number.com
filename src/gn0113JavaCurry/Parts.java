@@ -13,6 +13,7 @@
  * y‚µ‚Ä‚İ‚æ‚¤z
  *     JavaCurry.javaQÆB
  */
+package gn0113JavaCurry;
 import java.awt.Graphics;
 
 public interface Parts {

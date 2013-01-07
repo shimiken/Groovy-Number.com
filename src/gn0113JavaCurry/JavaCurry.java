@@ -13,6 +13,7 @@
  * 【試してみよう】
  *     Box、Circle、Textを上手く組み合わせ、右下にJASマークを入れる。 *     http://www.jasnet.or.jp/
  */
+package gn0113JavaCurry;
 import java.awt.Color;
 import java.lang.String;
 import java.lang.System;
